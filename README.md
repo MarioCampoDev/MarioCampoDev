@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariocampodev&label=Profile%20views&color=0e75b6&style=flat" alt="mariocampodev" /> </p>
   
-- 🔭 Actualmente trabajo en: [LavenirCol](https://github.com/LavenirCol)  
+- 🔭 Actualmente me encuentro en la búsqueda de empleo.
   
 - 🌱 Actualmente estoy aprendiendo: **Python**  
   
